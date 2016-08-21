@@ -55,7 +55,6 @@ make install
 %{_libdir}/ocaml/*/*.a
 %{_libdir}/ocaml/*/*.cmx
 %{_libdir}/ocaml/*/*.cmxa
-%{_libdir}/ocaml/*/*.cmxs
 %{_libdir}/ocaml/*/*.cma
 %{_libdir}/ocaml/*/*.cmi
 %{_libdir}/ocaml/*/*.mli

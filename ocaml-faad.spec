@@ -1,7 +1,7 @@
 Name:     ocaml-faad
 
-Version:  0.3.3
-Release:  1
+Version:  0.4.0
+Release:  0.0%{dist}
 Summary:  OCaml bindings for faad
 License:  GPLv2+
 URL:      https://github.com/savonet/ocaml-faad
